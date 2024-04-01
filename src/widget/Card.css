@@ -1,0 +1,12 @@
+.card-container {
+  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.677);
+  color: white;
+  font-weight: 500;
+  margin: 10px;
+  cursor: pointer;
+  text-align: center;
+  width: 100px;
+  border-radius: 10px;
+  box-shadow: inset;
+}
